@@ -22,3 +22,8 @@ This project focuses on using Natural Language Processing (NLP) techniques to au
 - **Details**:
   - Each downloaded PDF was renamed to include the stock code and the financial year (e.g., `20MICRONS_2022.pdf` for the 2022 report of the company 20MICRONS).
   - This systematic file-naming convention ensures easy reference and prepares the files for subsequent NLP processing.
+ ## References
+- [Automating File Downloads with Selenium and Python - Complete Guide](https://www.33rdsquare.com/automating-file-downloads-with-selenium-and-python-the-complete-guide/)
+- [5 Best Ways to Automatically Download a PDF with Selenium WebDriver in Python](https://blog.finxter.com/5-best-ways-to-automatically-download-a-pdf-with-selenium-webdriver-in-python/)
+- [Screener - Financial Reports and Data](https://www.screener.in/)
+
