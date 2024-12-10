@@ -24,25 +24,33 @@ This project focuses on using Natural Language Processing (NLP) techniques to au
   - This systematic file-naming convention ensures easy reference and prepares the files for subsequent NLP processing.
   - 
  ## References
-BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
-Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K. (2018).
-https://arxiv.org/abs/1810.04805
-BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension
-Lewis, M., Liu, Y., Goyal, N., Ghazvininejad, M., Mohamed, A., Levy, O., Stoyanov, V., & Zettlemoyer, L. (2019).
-https://arxiv.org/abs/1910.13461
-An Exploration of Automatic Text Summarization of Financial Reports
-Abdaljalil, S., & Bouamor, H. (2021).
-https://aclanthology.org/2021.finnlp-1.1.pdf
-Beyond Pure Text: Summarizing Financial Reports Based on Both Textual and Tabular Data
-Jin, H., Zhang, Y., Meng, D., Wang, J., & Tan, J. (2023).
-https://arxiv.org/abs/2302.13412 (Assumed source since it wasn't provided directly.)
-Practices of Natural Language Processing in the Finance Sector
-Bozyiğit, F., & Kılınç, D. (2021).
-https://link.springer.com/chapter/10.1007/978-981-16-8997-0_9
-Automating File Downloads with Selenium and Python - Complete Guide
-https://www.33rdsquare.com/automating-file-downloads-with-selenium-and-python-the-complete-guide/
-5 Best Ways to Automatically Download a PDF with Selenium WebDriver in Python
-https://blog.finxter.com/5-best-ways-to-automatically-download-a-pdf-with-selenium-webdriver-in-python/
-Screener - Financial Reports and Data
-https://www.screener.in/
+ BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+ Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K. (2018).
+ https://arxiv.org/abs/1810.04805
+ 
+ BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension
+ Lewis, M., Liu, Y., Goyal, N., Ghazvininejad, M., Mohamed, A., Levy, O., Stoyanov, V., & Zettlemoyer, L. (2019).
+ https://arxiv.org/abs/1910.13461
+ 
+ An Exploration of Automatic Text Summarization of Financial Reports
+ Abdaljalil, S., & Bouamor, H. (2021).
+ https://aclanthology.org/2021.finnlp-1.1.pdf
+ 
+ Beyond Pure Text: Summarizing Financial Reports Based on Both Textual and Tabular Data
+ Jin, H., Zhang, Y., Meng, D., Wang, J., & Tan, J. (2023).
+ https://arxiv.org/abs/2302.13412 (Assumed source since it wasn't provided directly.)
+ 
+ Practices of Natural Language Processing in the Finance Sector
+ Bozyiğit, F., & Kılınç, D. (2021).
+ https://link.springer.com/chapter/10.1007/978-981-16-8997-0_9
+ 
+ Automating File Downloads with Selenium and Python - Complete Guide
+ https://www.33rdsquare.com/automating-file-downloads-with-selenium-and-python-the-complete-guide/
+ 
+ 5 Best Ways to Automatically Download a PDF with Selenium WebDriver in Python
+ https://blog.finxter.com/5-best-ways-to-automatically-download-a-pdf-with-selenium-webdriver-in-python/
+ 
+ Screener - Financial Reports and Data
+ https://www.screener.in/
+
 
